@@ -38,6 +38,10 @@
 				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Models/Bikerack2.uasset",
 				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Models/Bikerack3.uasset",
 				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Blueprints/InteractableObjects/Objects/BP_Box.uasset",
+				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Art/MouseTextures/DeathMouse_Clicked_.uasset",
+				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Art/MouseTextures/DeathMouse_Hover_.uasset",
+				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Art/MouseTextures/LifeMouse_Hover_.uasset",
+				"C:/Users/komon/Desktop/School/UCF Fall 23/Casual Game Production/Github2/LifeAndDeath/LifeAndDeath/Content/Art/MouseTextures/LifeMouse_Clicked_.uasset",
 				"C:/Dev/Unreal/LifeAndDeath/LifeAndDeath/LifeAndDeath/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
